@@ -1,2 +1,1 @@
-# Machine-Learning-Statistics
-Statistics for machine Learning:
+# Statistics for machine Learning:
