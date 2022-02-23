@@ -3,6 +3,7 @@
 ## Logistic Regression Versus Random Forest:
 
 ## Tree-Based Machine Learning Models:
+Dataset description: Whether employees would attrite or not based on independent explanatory variables.
 * Decision trees - simple model and model with class weight tuning
 * Bagging (bootstrap aggregation)
 * Random Forest - basic random forest and application of grid search on hypyerparameter tuning
