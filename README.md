@@ -1,5 +1,7 @@
 # Statistics for Machine Learning:
-
+## Regression Statistics:
+* Simple regression
+* Multilinear regression: Backward selection, iterations start with considering all the variables & removed one by one until all the presciebed statistics are met such as no significance & multi-collinearity. Finally overall ststistics will be checked, such as R-squared value < 0.7, considered as good model, else reject it.
 ## Logistic Regression Versus Random Forest:
 
 ## Tree-Based Machine Learning Models:
